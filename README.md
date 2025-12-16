@@ -2,7 +2,7 @@
 **Projet Power BI — Analyse multi-échelles (Monde, Continent, Pays)**
 
 🔗 **Lien vers le rapport Power BI déployé**  
-👉 **[Accéder au rapport interactif]**(https://app.powerbi.com/view?r=eyJrIjoiOGQ0YjFjZDgtNzBiMy00NjAwLWI3MmUtNGE4YWE5MjM2MTk3IiwidCI6ImY3MGEwYTg4LTJhMzctNGYxYS04OGYyLWFiZGIxNzMwM2MwZiIsImMiOjN9)**
+👉 **[Accéder au rapport interactif](https://app.powerbi.com/view?r=eyJrIjoiOGQ0YjFjZDgtNzBiMy00NjAwLWI3MmUtNGE4YWE5MjM2MTk3IiwidCI6ImY3MGEwYTg4LTJhMzctNGYxYS04OGYyLWFiZGIxNzMwM2MwZiIsImMiOjN9)**
 
 ---
 
