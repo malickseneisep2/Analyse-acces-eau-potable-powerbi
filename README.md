@@ -140,7 +140,7 @@ Des fonctions ont été mobilisées comme :
 Projet réalisé par une équipe de **quatre étudiants** :
 
 - Mamady I BERETE
-- Jacques IILY 
+- Jacques ILLY 
 - Malick SENE  
 - Nguemfouo Ngoumtsa CELINA
 - Dior MBENGUE
