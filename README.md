@@ -2,14 +2,14 @@
 **Projet Power BI — Analyse multi-échelles (Monde, Continent, Pays)**
 
 🔗 **Lien vers le rapport Power BI déployé**  
-👉 **[Accéder au rapport interactif](À_REMPLACER_PAR_LE_LIEN_POWER_BI)**
+👉 **[Accéder au rapport interactif]([À_REMPLACER_PAR_LE_LIEN_POWER_BI](https://app.powerbi.com/view?r=eyJrIjoiOGQ0YjFjZDgtNzBiMy00NjAwLWI3MmUtNGE4YWE5MjM2MTk3IiwidCI6ImY3MGEwYTg4LTJhMzctNGYxYS04OGYyLWFiZGIxNzMwM2MwZiIsImMiOjN9))**
 
 ---
 
 ## 📌 Contexte du projet
 
 Ce projet a été réalisé dans le cadre du **cours de Big Data et Cloud Computing**.  
-Il vise à analyser l’accès à l’eau potable et aux services **WASH** (*Water, Sanitation and Hygiene*) à différentes échelles géographiques, en mobilisant des outils de traitement de données, de modélisation et de visualisation avancée sous **Power BI**.
+Il vise à analyser l’accès à l’eau potable et aux services **WASH** (*Water, Sanitation and Hygiene*) à différentes échelles géographiques, en mobilisant des outils de traitement de données, de modélisation et de visualisation sous **Power BI**.
 
 L’accès à l’eau potable constitue un enjeu majeur de santé publique et de développement durable. Ce travail met en évidence les disparités territoriales et les liens entre accès à l’eau, démographie, mortalité liée aux services WASH et stabilité politique.
 
@@ -33,13 +33,13 @@ Les principaux objectifs du projet sont :
 - Quelles disparités observe-t-on entre continents ?
 - Les zones urbaines bénéficient-elles systématiquement d’un meilleur accès ?
 - Existe-t-il un lien entre instabilité politique et faiblesse de l’accès à l’eau ?
-- Comment la mortalité liée aux services WASH varie-t-elle selon les territoires ?
+- Comment la mortalité liée aux services WASH varie-t-elle selon les territoires ? ...
 
 ---
 
 ## 🧾 Données utilisées
 
-Les données proviennent de sources internationales (Banque mondiale, OMS) et sont organisées selon une logique décisionnelle.
+Les données proviennent de sources internationales (FAO, OMS) et sont organisées selon une logique décisionnelle.
 
 ### Tables de faits
 - **Population** : population totale, urbaine et rurale par pays et par année  
@@ -76,7 +76,7 @@ Toutes les transformations sont documentées via les *Étapes appliquées* de Po
 
 ## 🧠 Modélisation des données
 
-Le modèle repose sur une **architecture en étoile** :
+Le modèle repose sur une **architecture en constellation** :
 
 - tables de faits au centre (population, accès à l’eau, mortalité, stabilité politique) ;
 - tables de dimensions partagées (pays, continent, année, découpage).
@@ -96,10 +96,10 @@ Des mesures DAX ont été développées pour :
 - taux d’accès à l’eau potable (base et gestion sûre) ;
 - taux de population urbaine ;
 - nombre de décès liés aux services WASH ;
-- indicateurs globaux pondérés ;
+- indicateurs globaux ;
 - analyses temporelles basées sur `DimDate`.
 
-Des fonctions avancées ont été mobilisées :
+Des fonctions ont été mobilisées comme :
 `CALCULATE`, `FILTER`, `KEEPFILTERS`, `TREATAS`, paramètres dynamiques.
 
 ---
@@ -120,8 +120,7 @@ Des fonctions avancées ont été mobilisées :
 
 ### 🏳️ Vue Pays
 - analyse détaillée par pays ;
-- filtres avancés (année, découpage, continent, stabilité politique) ;
-- visualisations orientées aide à la décision ;
+- filtres (année, découpage, continent, stabilité politique) ;
 - graphiques thématiques répondant aux domaines d’analyse du TDR.
 
 ---
@@ -130,7 +129,7 @@ Des fonctions avancées ont été mobilisées :
 
 - drill-down et drill-up hiérarchiques ;
 - paramètres dynamiques pour changer l’indicateur affiché ;
-- filtres conditionnels (ex. stabilité politique) ;
+- filtres conditionnels numérique (ex. stabilité politique) ;
 - gestion fine des interactions entre visuels ;
 - tableau de bord interactif et exploratoire.
 
@@ -140,18 +139,17 @@ Des fonctions avancées ont été mobilisées :
 
 Projet réalisé par une équipe de **quatre étudiants** :
 
-- A  
-- B  
-- C  
-- D  
-
-*(Noms à compléter)*
+- Mamady I BERETE
+- Jacques IILY 
+- Malick SENE  
+- Nguemfouo Ngoumtsa Célina
+- Dior MBENGUE
 
 ---
 
 ## 🛠️ Outils utilisés
 
-- Power BI Desktop  
+- Power BI Desktop et Service  
 - Power Query  
 - DAX  
 - Git & GitHub  
