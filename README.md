@@ -142,7 +142,7 @@ Projet réalisé par une équipe de **quatre étudiants** :
 - Mamady I BERETE
 - Jacques IILY 
 - Malick SENE  
-- Nguemfouo Ngoumtsa Célina
+- Nguemfouo Ngoumtsa CELINA
 - Dior MBENGUE
 
 ---
