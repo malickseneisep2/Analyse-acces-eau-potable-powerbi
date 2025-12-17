@@ -1,2 +1,4 @@
-# Analyse-acces-eau-potable-powerbi
-Projet de visualisation de données développé avec Power BI. Ce tableau de bord transforme un jeu de données brutes en visualisations interactives permettant d’explorer et d’analyser les principaux indicateurs liés à l’accès à l’eau potable.
+## 📽️ Présentation Canva
+
+La présentation du projet est disponible via Canva :  
+👉 [Voir la présentation Canva](https://www.canva.com/design/DAG7nzVz1ZM/nD2B1bUzRv0Z4OXXCyY1iQ/edit)
